@@ -1,0 +1,7 @@
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
+*.$$$
+*.bak
